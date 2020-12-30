@@ -4,7 +4,7 @@ A small program to track your mouse to determine if you are active on your compu
 
 # Requirements 
 
-You will need to have XMRig installed:   <a href="https://github.com/xmrig/xmrig"> Xmrig </a>
+You will need to have XMRig installed:   <a href="https://github.com/xmrig/xmrig"> Xmrig </a><br>
 You will need to install the dependencies for robotgo <a href="https:/github.com/go-vgo/robotgo"> Robotgo </a>
 
 Change the name of example.config.json to config.json and fill out the config file.
