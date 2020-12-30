@@ -1,0 +1,6 @@
+{
+    "xmrigLocation": "<directory of xmrig build>",
+    "xmfilename": "xmrig",
+    "timeoutStatusOn": 1, 
+    "timeoutStatusOff": 60
+}
